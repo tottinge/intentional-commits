@@ -7,7 +7,7 @@ An [intentional commit](https://intentionalcommits.org/) tool for git users.
 Once you have cloned this repo, source the `gnext` file into your
 zshell session.
 
-> source gnext
+> source gnext.zsh
 
 As a convention, I put the `gnext` file in `$HOME/bin/` and set  my `.zshrc` to source the file, so it's always active.
 
